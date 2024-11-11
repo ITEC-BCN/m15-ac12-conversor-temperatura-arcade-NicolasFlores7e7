@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAARERERERH//BERERHBzxHxERER///MEfEREf8RERH88RH8EREREdH/ER8R8f8fEfzxHfEfEfEc8fER/BERER/xwREfERERH/HxER8REcwR8fERHxHMEREf8RHxERER8RzxHxH///wfEREfERERERER8REREREREREfEREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "konohalogo"
+    },
+    "image2": {
+        "data": "hwQQABAAAAARERERERER/BEREREREfH/ERERERER8f8RERERERH//9Hd3d3d3f///////////x/9EREREREREfERERERERER8R8RERERERER/xERERERERHxHxERERERERHxEREREREREREbERERERERER8RERERERERHxEREREREREdEREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "sonidologo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
